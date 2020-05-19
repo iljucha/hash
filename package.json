@@ -1,0 +1,25 @@
+{
+  "name": "@iljucha/hash",
+  "version": "1.0.0",
+  "description": "Unnecessary simple hash creator from strings. ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iljucha/hash.git"
+  },
+  "keywords": [
+    "hash",
+    "hasher",
+    "synchronous"
+  ],
+  "author": "Ilja Bituzki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iljucha/hash/issues"
+  },
+  "homepage": "https://github.com/iljucha/hash#readme"
+}
