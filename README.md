@@ -5,6 +5,7 @@ I only use this as hash-dummy for tests in my projects, please don't use this to
 
 ## Usage
 ```javascript
-var hash = require("./hash")
+import hash from "@iljucha/hash"
+
 hash("password") // -> 1216985755
 ```
