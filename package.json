@@ -1,6 +1,6 @@
 {
   "name": "@iljucha/hash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unnecessary simple hash creator from strings. ",
   "main": "index.js",
   "type": "module",
@@ -16,9 +16,6 @@
     "hasher",
     "synchronous"
   ],
-  "dependencies": {
-    "@iljucha/assert": "1.0.0"
-  },
   "author": "Ilja Bituzki",
   "license": "ISC",
   "bugs": {
